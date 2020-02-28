@@ -30,10 +30,10 @@ namespace ArrayOperator
             }
         }
 
-        static int GetMaxNum(int[] l_nums)
+        static int GetMaxNum(int[] lNum)
         {
-            int max = l_nums[0];
-            foreach(int num in l_nums)
+            int max = lNum[0];
+            foreach(int num in lNum)
             {
                if(num > max)
                {
@@ -43,10 +43,10 @@ namespace ArrayOperator
             return max;
         }
 
-        static int GetMinNum(int[] l_nums)
+        static int GetMinNum(int[] lNum)
         {
-            int min = l_nums[0];
-            foreach (int num in l_nums)
+            int min = lNum[0];
+            foreach (int num in lNum)
             {
                 if (num < min)
                 {
@@ -56,21 +56,21 @@ namespace ArrayOperator
             return min;
         }
 
-        static int GetAverage(int[] l_nums)
+        static int GetAverage(int[] lNum)
         {
             int average = 0;
-            foreach(int num in l_nums)
+            foreach(int num in lNum)
             {
                 average += num;
             }
-            average /= l_nums.Length;
+            average /= lNum.Length;
             return average;
         }
 
-        static int GetGross(int[] l_nums)
+        static int GetGross(int[] lNum)
         {
             int gross = 0;
-            foreach (int num in l_nums)
+            foreach (int num in lNum)
             {
                 gross += num;
             }
