@@ -1,0 +1,11 @@
+H:\personal_files\Undergraduate\大二下\软件构造基础\CShapeClasswork\work3\bin\Debug\netcoreapp3.1\work3.exe
+H:\personal_files\Undergraduate\大二下\软件构造基础\CShapeClasswork\work3\bin\Debug\netcoreapp3.1\work3.deps.json
+H:\personal_files\Undergraduate\大二下\软件构造基础\CShapeClasswork\work3\bin\Debug\netcoreapp3.1\work3.runtimeconfig.json
+H:\personal_files\Undergraduate\大二下\软件构造基础\CShapeClasswork\work3\bin\Debug\netcoreapp3.1\work3.runtimeconfig.dev.json
+H:\personal_files\Undergraduate\大二下\软件构造基础\CShapeClasswork\work3\bin\Debug\netcoreapp3.1\work3.dll
+H:\personal_files\Undergraduate\大二下\软件构造基础\CShapeClasswork\work3\bin\Debug\netcoreapp3.1\work3.pdb
+H:\personal_files\Undergraduate\大二下\软件构造基础\CShapeClasswork\work3\obj\Debug\netcoreapp3.1\work3.csprojAssemblyReference.cache
+H:\personal_files\Undergraduate\大二下\软件构造基础\CShapeClasswork\work3\obj\Debug\netcoreapp3.1\work3.AssemblyInfoInputs.cache
+H:\personal_files\Undergraduate\大二下\软件构造基础\CShapeClasswork\work3\obj\Debug\netcoreapp3.1\work3.AssemblyInfo.cs
+H:\personal_files\Undergraduate\大二下\软件构造基础\CShapeClasswork\work3\obj\Debug\netcoreapp3.1\work3.dll
+H:\personal_files\Undergraduate\大二下\软件构造基础\CShapeClasswork\work3\obj\Debug\netcoreapp3.1\work3.pdb

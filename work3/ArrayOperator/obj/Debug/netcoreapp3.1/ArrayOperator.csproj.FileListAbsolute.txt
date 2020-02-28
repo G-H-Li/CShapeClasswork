@@ -1,0 +1,11 @@
+H:\personal_files\Undergraduate\大二下\软件构造基础\CShapeClasswork\ArrayOperator\bin\Debug\netcoreapp3.1\ArrayOperator.exe
+H:\personal_files\Undergraduate\大二下\软件构造基础\CShapeClasswork\ArrayOperator\bin\Debug\netcoreapp3.1\ArrayOperator.deps.json
+H:\personal_files\Undergraduate\大二下\软件构造基础\CShapeClasswork\ArrayOperator\bin\Debug\netcoreapp3.1\ArrayOperator.runtimeconfig.json
+H:\personal_files\Undergraduate\大二下\软件构造基础\CShapeClasswork\ArrayOperator\bin\Debug\netcoreapp3.1\ArrayOperator.runtimeconfig.dev.json
+H:\personal_files\Undergraduate\大二下\软件构造基础\CShapeClasswork\ArrayOperator\bin\Debug\netcoreapp3.1\ArrayOperator.dll
+H:\personal_files\Undergraduate\大二下\软件构造基础\CShapeClasswork\ArrayOperator\bin\Debug\netcoreapp3.1\ArrayOperator.pdb
+H:\personal_files\Undergraduate\大二下\软件构造基础\CShapeClasswork\ArrayOperator\obj\Debug\netcoreapp3.1\ArrayOperator.csprojAssemblyReference.cache
+H:\personal_files\Undergraduate\大二下\软件构造基础\CShapeClasswork\ArrayOperator\obj\Debug\netcoreapp3.1\ArrayOperator.AssemblyInfoInputs.cache
+H:\personal_files\Undergraduate\大二下\软件构造基础\CShapeClasswork\ArrayOperator\obj\Debug\netcoreapp3.1\ArrayOperator.AssemblyInfo.cs
+H:\personal_files\Undergraduate\大二下\软件构造基础\CShapeClasswork\ArrayOperator\obj\Debug\netcoreapp3.1\ArrayOperator.dll
+H:\personal_files\Undergraduate\大二下\软件构造基础\CShapeClasswork\ArrayOperator\obj\Debug\netcoreapp3.1\ArrayOperator.pdb

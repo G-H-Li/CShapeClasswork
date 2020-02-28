@@ -1,0 +1,11 @@
+H:\personal_files\Undergraduate\大二下\软件构造基础\CShapeClasswork\PrimeNum\bin\Debug\netcoreapp3.1\PrimeNum.exe
+H:\personal_files\Undergraduate\大二下\软件构造基础\CShapeClasswork\PrimeNum\bin\Debug\netcoreapp3.1\PrimeNum.deps.json
+H:\personal_files\Undergraduate\大二下\软件构造基础\CShapeClasswork\PrimeNum\bin\Debug\netcoreapp3.1\PrimeNum.runtimeconfig.json
+H:\personal_files\Undergraduate\大二下\软件构造基础\CShapeClasswork\PrimeNum\bin\Debug\netcoreapp3.1\PrimeNum.runtimeconfig.dev.json
+H:\personal_files\Undergraduate\大二下\软件构造基础\CShapeClasswork\PrimeNum\bin\Debug\netcoreapp3.1\PrimeNum.dll
+H:\personal_files\Undergraduate\大二下\软件构造基础\CShapeClasswork\PrimeNum\bin\Debug\netcoreapp3.1\PrimeNum.pdb
+H:\personal_files\Undergraduate\大二下\软件构造基础\CShapeClasswork\PrimeNum\obj\Debug\netcoreapp3.1\PrimeNum.csprojAssemblyReference.cache
+H:\personal_files\Undergraduate\大二下\软件构造基础\CShapeClasswork\PrimeNum\obj\Debug\netcoreapp3.1\PrimeNum.AssemblyInfoInputs.cache
+H:\personal_files\Undergraduate\大二下\软件构造基础\CShapeClasswork\PrimeNum\obj\Debug\netcoreapp3.1\PrimeNum.AssemblyInfo.cs
+H:\personal_files\Undergraduate\大二下\软件构造基础\CShapeClasswork\PrimeNum\obj\Debug\netcoreapp3.1\PrimeNum.dll
+H:\personal_files\Undergraduate\大二下\软件构造基础\CShapeClasswork\PrimeNum\obj\Debug\netcoreapp3.1\PrimeNum.pdb

@@ -1,0 +1,11 @@
+H:\personal_files\Undergraduate\大二下\软件构造基础\CShapeClasswork\work3\bin\Debug\netcoreapp3.1\PrimeFactor.exe
+H:\personal_files\Undergraduate\大二下\软件构造基础\CShapeClasswork\work3\bin\Debug\netcoreapp3.1\PrimeFactor.deps.json
+H:\personal_files\Undergraduate\大二下\软件构造基础\CShapeClasswork\work3\bin\Debug\netcoreapp3.1\PrimeFactor.runtimeconfig.json
+H:\personal_files\Undergraduate\大二下\软件构造基础\CShapeClasswork\work3\bin\Debug\netcoreapp3.1\PrimeFactor.runtimeconfig.dev.json
+H:\personal_files\Undergraduate\大二下\软件构造基础\CShapeClasswork\work3\bin\Debug\netcoreapp3.1\PrimeFactor.dll
+H:\personal_files\Undergraduate\大二下\软件构造基础\CShapeClasswork\work3\bin\Debug\netcoreapp3.1\PrimeFactor.pdb
+H:\personal_files\Undergraduate\大二下\软件构造基础\CShapeClasswork\work3\obj\Debug\netcoreapp3.1\PrimeFactor.csprojAssemblyReference.cache
+H:\personal_files\Undergraduate\大二下\软件构造基础\CShapeClasswork\work3\obj\Debug\netcoreapp3.1\PrimeFactor.AssemblyInfoInputs.cache
+H:\personal_files\Undergraduate\大二下\软件构造基础\CShapeClasswork\work3\obj\Debug\netcoreapp3.1\PrimeFactor.AssemblyInfo.cs
+H:\personal_files\Undergraduate\大二下\软件构造基础\CShapeClasswork\work3\obj\Debug\netcoreapp3.1\PrimeFactor.dll
+H:\personal_files\Undergraduate\大二下\软件构造基础\CShapeClasswork\work3\obj\Debug\netcoreapp3.1\PrimeFactor.pdb
