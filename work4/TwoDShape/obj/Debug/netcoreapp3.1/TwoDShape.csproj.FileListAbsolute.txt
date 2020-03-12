@@ -1,0 +1,11 @@
+H:\personal_files\Undergraduate\大二下\软件构造基础\CShapeClasswork\work4\TwoDShape\bin\Debug\netcoreapp3.1\TwoDShape.exe
+H:\personal_files\Undergraduate\大二下\软件构造基础\CShapeClasswork\work4\TwoDShape\bin\Debug\netcoreapp3.1\TwoDShape.deps.json
+H:\personal_files\Undergraduate\大二下\软件构造基础\CShapeClasswork\work4\TwoDShape\bin\Debug\netcoreapp3.1\TwoDShape.runtimeconfig.json
+H:\personal_files\Undergraduate\大二下\软件构造基础\CShapeClasswork\work4\TwoDShape\bin\Debug\netcoreapp3.1\TwoDShape.runtimeconfig.dev.json
+H:\personal_files\Undergraduate\大二下\软件构造基础\CShapeClasswork\work4\TwoDShape\bin\Debug\netcoreapp3.1\TwoDShape.dll
+H:\personal_files\Undergraduate\大二下\软件构造基础\CShapeClasswork\work4\TwoDShape\bin\Debug\netcoreapp3.1\TwoDShape.pdb
+H:\personal_files\Undergraduate\大二下\软件构造基础\CShapeClasswork\work4\TwoDShape\obj\Debug\netcoreapp3.1\TwoDShape.csprojAssemblyReference.cache
+H:\personal_files\Undergraduate\大二下\软件构造基础\CShapeClasswork\work4\TwoDShape\obj\Debug\netcoreapp3.1\TwoDShape.AssemblyInfoInputs.cache
+H:\personal_files\Undergraduate\大二下\软件构造基础\CShapeClasswork\work4\TwoDShape\obj\Debug\netcoreapp3.1\TwoDShape.AssemblyInfo.cs
+H:\personal_files\Undergraduate\大二下\软件构造基础\CShapeClasswork\work4\TwoDShape\obj\Debug\netcoreapp3.1\TwoDShape.dll
+H:\personal_files\Undergraduate\大二下\软件构造基础\CShapeClasswork\work4\TwoDShape\obj\Debug\netcoreapp3.1\TwoDShape.pdb
