@@ -1,0 +1,11 @@
+H:\personal_files\Undergraduate\大二下\软件构造基础\CShapeClasswork\work5\LinkList\bin\Debug\netcoreapp3.1\LinkList.exe
+H:\personal_files\Undergraduate\大二下\软件构造基础\CShapeClasswork\work5\LinkList\bin\Debug\netcoreapp3.1\LinkList.deps.json
+H:\personal_files\Undergraduate\大二下\软件构造基础\CShapeClasswork\work5\LinkList\bin\Debug\netcoreapp3.1\LinkList.runtimeconfig.json
+H:\personal_files\Undergraduate\大二下\软件构造基础\CShapeClasswork\work5\LinkList\bin\Debug\netcoreapp3.1\LinkList.runtimeconfig.dev.json
+H:\personal_files\Undergraduate\大二下\软件构造基础\CShapeClasswork\work5\LinkList\bin\Debug\netcoreapp3.1\LinkList.dll
+H:\personal_files\Undergraduate\大二下\软件构造基础\CShapeClasswork\work5\LinkList\bin\Debug\netcoreapp3.1\LinkList.pdb
+H:\personal_files\Undergraduate\大二下\软件构造基础\CShapeClasswork\work5\LinkList\obj\Debug\netcoreapp3.1\LinkList.csprojAssemblyReference.cache
+H:\personal_files\Undergraduate\大二下\软件构造基础\CShapeClasswork\work5\LinkList\obj\Debug\netcoreapp3.1\LinkList.AssemblyInfoInputs.cache
+H:\personal_files\Undergraduate\大二下\软件构造基础\CShapeClasswork\work5\LinkList\obj\Debug\netcoreapp3.1\LinkList.AssemblyInfo.cs
+H:\personal_files\Undergraduate\大二下\软件构造基础\CShapeClasswork\work5\LinkList\obj\Debug\netcoreapp3.1\LinkList.dll
+H:\personal_files\Undergraduate\大二下\软件构造基础\CShapeClasswork\work5\LinkList\obj\Debug\netcoreapp3.1\LinkList.pdb

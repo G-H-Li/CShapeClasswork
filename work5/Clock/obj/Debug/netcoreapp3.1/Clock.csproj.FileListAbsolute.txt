@@ -1,0 +1,11 @@
+H:\personal_files\Undergraduate\大二下\软件构造基础\CShapeClasswork\work5\Clock\bin\Debug\netcoreapp3.1\Clock.exe
+H:\personal_files\Undergraduate\大二下\软件构造基础\CShapeClasswork\work5\Clock\bin\Debug\netcoreapp3.1\Clock.deps.json
+H:\personal_files\Undergraduate\大二下\软件构造基础\CShapeClasswork\work5\Clock\bin\Debug\netcoreapp3.1\Clock.runtimeconfig.json
+H:\personal_files\Undergraduate\大二下\软件构造基础\CShapeClasswork\work5\Clock\bin\Debug\netcoreapp3.1\Clock.runtimeconfig.dev.json
+H:\personal_files\Undergraduate\大二下\软件构造基础\CShapeClasswork\work5\Clock\bin\Debug\netcoreapp3.1\Clock.dll
+H:\personal_files\Undergraduate\大二下\软件构造基础\CShapeClasswork\work5\Clock\bin\Debug\netcoreapp3.1\Clock.pdb
+H:\personal_files\Undergraduate\大二下\软件构造基础\CShapeClasswork\work5\Clock\obj\Debug\netcoreapp3.1\Clock.csprojAssemblyReference.cache
+H:\personal_files\Undergraduate\大二下\软件构造基础\CShapeClasswork\work5\Clock\obj\Debug\netcoreapp3.1\Clock.AssemblyInfoInputs.cache
+H:\personal_files\Undergraduate\大二下\软件构造基础\CShapeClasswork\work5\Clock\obj\Debug\netcoreapp3.1\Clock.AssemblyInfo.cs
+H:\personal_files\Undergraduate\大二下\软件构造基础\CShapeClasswork\work5\Clock\obj\Debug\netcoreapp3.1\Clock.dll
+H:\personal_files\Undergraduate\大二下\软件构造基础\CShapeClasswork\work5\Clock\obj\Debug\netcoreapp3.1\Clock.pdb
