@@ -1,0 +1,11 @@
+H:\personal_files\Undergraduate\大二下\软件构造基础\CShapeClasswork\work6\OrderOS\obj\Debug\netcoreapp3.1\OrderOS.csprojAssemblyReference.cache
+H:\personal_files\Undergraduate\大二下\软件构造基础\CShapeClasswork\work6\OrderOS\obj\Debug\netcoreapp3.1\OrderOS.AssemblyInfoInputs.cache
+H:\personal_files\Undergraduate\大二下\软件构造基础\CShapeClasswork\work6\OrderOS\obj\Debug\netcoreapp3.1\OrderOS.AssemblyInfo.cs
+H:\personal_files\Undergraduate\大二下\软件构造基础\CShapeClasswork\work6\OrderOS\bin\Debug\netcoreapp3.1\OrderOS.exe
+H:\personal_files\Undergraduate\大二下\软件构造基础\CShapeClasswork\work6\OrderOS\bin\Debug\netcoreapp3.1\OrderOS.deps.json
+H:\personal_files\Undergraduate\大二下\软件构造基础\CShapeClasswork\work6\OrderOS\bin\Debug\netcoreapp3.1\OrderOS.runtimeconfig.json
+H:\personal_files\Undergraduate\大二下\软件构造基础\CShapeClasswork\work6\OrderOS\bin\Debug\netcoreapp3.1\OrderOS.runtimeconfig.dev.json
+H:\personal_files\Undergraduate\大二下\软件构造基础\CShapeClasswork\work6\OrderOS\bin\Debug\netcoreapp3.1\OrderOS.dll
+H:\personal_files\Undergraduate\大二下\软件构造基础\CShapeClasswork\work6\OrderOS\bin\Debug\netcoreapp3.1\OrderOS.pdb
+H:\personal_files\Undergraduate\大二下\软件构造基础\CShapeClasswork\work6\OrderOS\obj\Debug\netcoreapp3.1\OrderOS.dll
+H:\personal_files\Undergraduate\大二下\软件构造基础\CShapeClasswork\work6\OrderOS\obj\Debug\netcoreapp3.1\OrderOS.pdb
