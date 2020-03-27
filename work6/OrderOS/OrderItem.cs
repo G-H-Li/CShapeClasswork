@@ -4,12 +4,14 @@ using System.Text;
 
 namespace OrderOS
 {
-    class OrderItem
+    public class OrderItem
     {
         private string itemName;  //货物名称
         private float unitPrice;   //货物单价
         private int quantity;  //货物数量
-        private readonly float totalPrice;  //货物总价
+        private float totalPrice;  //货物总价
+
+        public OrderItem() { }
 
         public OrderItem(string name, float uPrice, int quan)
         {
@@ -31,7 +33,7 @@ namespace OrderOS
         public override bool Equals(Object obj)
         {
             OrderItem item = obj as OrderItem;
-            if (item != null && item.ItemName == this.ItemName && item.UnitPrice == this.UnitPrice && item.Quantity == this.Quantity && item.TotalPrice == this.totalPrice)
+            if (item != null && item.ItemName == this.ItemName && item.UnitPrice == this.UnitPrice && item.Quantity == this.Quantity && item.TotalPrice == this.TotalPrice)
             {
                 return true;
             }

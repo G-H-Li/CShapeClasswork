@@ -12,14 +12,16 @@ namespace OrderOS
         public override string Message => base.Message;
     }
 
-    class Order:IComparable
+    public class Order:IComparable
     {
-        private readonly int id;  //订单号,一次生成不可修改
+        private int id;  //订单号,一次生成不可修改
         private string time;  //订单时间
-        private readonly float totalPrice;  //订单总价
+        private float totalPrice;  //订单总价
         private string buyerName;  //买家名称
         private string sellerName;  //卖家名称
-        private List<OrderItem> items;  //消费明细
+        public List<OrderItem> items;  //消费明细
+
+        public Order() { }
 
         public Order(int num, string buyer, string seller)
         {
@@ -46,23 +48,22 @@ namespace OrderOS
             return this.Id;
         }
 
-        public string HeaderToString()
+        public string ItemToString()
         {
-            //返回订单头部信息
-            return $"订单号：{this.Id}，订单时间：{this.Time}，买家：{this.BuyerName}，卖家：{this.SellerName}，订单总价：{this.TotalPrice}\n";
+            string info = "";
+            int i = 0;
+            foreach (OrderItem item in this.items)
+            {
+                info = info + i + item.ToString();
+                i += 1;
+            }
+            return info;
         }
 
         public override string ToString()
         {
             //返回整个订单的信息
-            string info = this.HeaderToString();
-            int i = 0;
-            foreach(OrderItem item in this.items)
-            {
-                info = info+ i +item.ToString();
-                i += 1;
-            }
-            return info;
+            return $"订单号：{this.Id}，订单时间：{this.Time}，买家：{this.BuyerName}，卖家：{this.SellerName}，订单总价：{this.TotalPrice}\n";
         }
 
         public int Id => id;
@@ -85,7 +86,7 @@ namespace OrderOS
         public string BuyerName { get => buyerName; set => buyerName = value; }
         
         public string SellerName { get => sellerName; set => sellerName = value; }
-        
+
         public void AddItem(string name, float uPrice, int quan)
         {
             //传入 货品名称，单价，数量
@@ -112,9 +113,9 @@ namespace OrderOS
         {
             //修改所有符合条件的明细
             List<int> indexs = this.SearchItem(oName, oPrice, oQuan);
-            foreach (int index in indexs)
+            for (int i = indexs.Count - 1; i >= 0; i--)
             {
-                this.ModifyItem(index, name, price, quan);
+                this.ModifyItem(indexs[i], name, price, quan);
             }
         }
 
@@ -124,7 +125,7 @@ namespace OrderOS
             try
             {
                 if (name != null && name != "") this.items[index].ItemName = name;
-                if (price >= 0) this.items[index].UnitPrice = price;
+                if (price > 0) this.items[index].UnitPrice = price;
                 if (quan > 0) this.items[index].Quantity = quan;
             }
             catch(IndexOutOfRangeException)
@@ -137,9 +138,9 @@ namespace OrderOS
         {
             //删除所有符合条件的明细
             List<int> indexs = this.SearchItem(name, price, quan);
-            foreach (int index in indexs)
+            for (int i=indexs.Count-1; i>=0; i--)
             {
-                this.DeleteItem(index);
+                this.DeleteItem(indexs[i]);
             }
         }
 
@@ -173,17 +174,25 @@ namespace OrderOS
         {
             //外部查找明细使用
             if (name == "" && uPrice < 0 && quan < 0) return null;
-            var query1 = from item in this.items
+            var query = from item in this.items
                          where name != null && item.ItemName == name
-                         select item;
-            var query2 = from item in query1
-                         where uPrice >= 0 && item.UnitPrice == uPrice
-                         select item;
-            var query3 = from item in query2
-                         where quan > 0 && item.Quantity == quan
-                         orderby item.TotalPrice
-                         select item;
-            return query3.ToList();
+                        orderby item.TotalPrice
+                        select item;
+            if(uPrice != 0)
+            {
+                query = from item in query
+                        where uPrice >= 0 && item.UnitPrice == uPrice
+                        orderby item.TotalPrice
+                        select item;
+            }
+            if(quan != 0)
+            {
+                query = from item in query
+                        where quan > 0 && item.Quantity == quan
+                        orderby item.TotalPrice
+                        select item;
+            }
+            return query.ToList();
         }
 
         public int CompareTo(object obj)

@@ -1,0 +1,140 @@
+{
+  "format": 1,
+  "restore": {
+    "H:\\personal_files\\Undergraduate\\大二下\\软件构造基础\\CShapeClasswork\\work6\\OrderOSTests\\OrderOSTests.csproj": {}
+  },
+  "projects": {
+    "H:\\personal_files\\Undergraduate\\大二下\\软件构造基础\\CShapeClasswork\\work6\\OrderOSTests\\OrderOSTests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "H:\\personal_files\\Undergraduate\\大二下\\软件构造基础\\CShapeClasswork\\work6\\OrderOSTests\\OrderOSTests.csproj",
+        "projectName": "OrderOSTests",
+        "projectPath": "H:\\personal_files\\Undergraduate\\大二下\\软件构造基础\\CShapeClasswork\\work6\\OrderOSTests\\OrderOSTests.csproj",
+        "packagesPath": "C:\\Users\\Gh Li\\.nuget\\packages\\",
+        "outputPath": "H:\\personal_files\\Undergraduate\\大二下\\软件构造基础\\CShapeClasswork\\work6\\OrderOSTests\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Gh Li\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "H:\\personal_files\\Undergraduate\\大二下\\软件构造基础\\CShapeClasswork\\work6\\OrderOS\\OrderOS.csproj": {
+                "projectPath": "H:\\personal_files\\Undergraduate\\大二下\\软件构造基础\\CShapeClasswork\\work6\\OrderOS\\OrderOS.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "MSTest.TestAdapter": {
+              "target": "Package",
+              "version": "[2.0.0, )"
+            },
+            "MSTest.TestFramework": {
+              "target": "Package",
+              "version": "[2.0.0, )"
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[16.2.0, )"
+            },
+            "coverlet.collector": {
+              "target": "Package",
+              "version": "[1.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "H:\\personal_files\\Undergraduate\\大二下\\软件构造基础\\CShapeClasswork\\work6\\OrderOS\\OrderOS.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "H:\\personal_files\\Undergraduate\\大二下\\软件构造基础\\CShapeClasswork\\work6\\OrderOS\\OrderOS.csproj",
+        "projectName": "OrderOS",
+        "projectPath": "H:\\personal_files\\Undergraduate\\大二下\\软件构造基础\\CShapeClasswork\\work6\\OrderOS\\OrderOS.csproj",
+        "packagesPath": "C:\\Users\\Gh Li\\.nuget\\packages\\",
+        "outputPath": "H:\\personal_files\\Undergraduate\\大二下\\软件构造基础\\CShapeClasswork\\work6\\OrderOS\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Gh Li\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

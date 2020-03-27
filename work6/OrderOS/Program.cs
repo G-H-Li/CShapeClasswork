@@ -13,6 +13,8 @@ namespace OrderOS
 
             service.Disp();
 
+            service.Export();
+            service.Import("./export.xml");
             //待测试
         }
     }

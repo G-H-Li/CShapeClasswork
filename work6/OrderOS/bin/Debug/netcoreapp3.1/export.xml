@@ -1,0 +1,54 @@
+<?xml version="1.0"?>
+<ArrayOfOrder xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Order>
+    <items>
+      <OrderItem>
+        <ItemName>手机</ItemName>
+        <UnitPrice>1000</UnitPrice>
+        <Quantity>2</Quantity>
+      </OrderItem>
+      <OrderItem>
+        <ItemName>耳机</ItemName>
+        <UnitPrice>200</UnitPrice>
+        <Quantity>3</Quantity>
+      </OrderItem>
+    </items>
+    <Time>2020/3/27 16:09:19</Time>
+    <BuyerName>Alan</BuyerName>
+    <SellerName>HuaWei</SellerName>
+  </Order>
+  <Order>
+    <items>
+      <OrderItem>
+        <ItemName>手机</ItemName>
+        <UnitPrice>1000</UnitPrice>
+        <Quantity>2</Quantity>
+      </OrderItem>
+      <OrderItem>
+        <ItemName>耳机</ItemName>
+        <UnitPrice>200</UnitPrice>
+        <Quantity>3</Quantity>
+      </OrderItem>
+    </items>
+    <Time>2020/3/27 16:09:19</Time>
+    <BuyerName>Amy</BuyerName>
+    <SellerName>OPPO</SellerName>
+  </Order>
+  <Order>
+    <items>
+      <OrderItem>
+        <ItemName>手机</ItemName>
+        <UnitPrice>1000</UnitPrice>
+        <Quantity>2</Quantity>
+      </OrderItem>
+      <OrderItem>
+        <ItemName>耳机</ItemName>
+        <UnitPrice>200</UnitPrice>
+        <Quantity>3</Quantity>
+      </OrderItem>
+    </items>
+    <Time>2020/3/27 16:09:19</Time>
+    <BuyerName>Tank</BuyerName>
+    <SellerName>VIVO</SellerName>
+  </Order>
+</ArrayOfOrder>
