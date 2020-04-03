@@ -44,3 +44,6 @@ C#作业专用库
 >* 附加功能：
 >* 控件随着form变化而等比例变化
 >* 画图情况输出
+> sample img:
+> <img src="https://github.com/G-H-Li/CShapeClasswork/blob/master/Work7/start.png">
+> <img src="https://github.com/G-H-Li/CShapeClasswork/blob/master/Work7/draw.png">
