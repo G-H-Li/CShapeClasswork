@@ -1,8 +1,10 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Linq;
 using System.Text;
+using System.Threading.Tasks;
 
-namespace OrderOS
+namespace ClassOrderManager
 {
     public class OrderItem
     {
@@ -12,11 +14,18 @@ namespace OrderOS
         private int quantity;  //货物数量
         private float totalPrice;  //货物总价
 
-        public OrderItem() { }
+        public OrderItem() 
+        {
+            this.Id = 0;
+            this.ItemName = "";
+            this.UnitPrice = 0;
+            this.Quantity = 0;
+            this.totalPrice = 0;
+        }
 
         public OrderItem(int id, string name, float uPrice, int quan)
         {
-            if (name == null || name =="" || uPrice < 0 || quan <= 0)
+            if (name == null || name == "" || uPrice < 0 || quan <= 0)
             {
                 throw new FormatException();
             }
@@ -53,10 +62,10 @@ namespace OrderOS
         public string ItemName { get => itemName; set => itemName = value; }
 
         public float UnitPrice { get => unitPrice; set => unitPrice = value; }
-        
+
         public int Quantity { get => quantity; set => quantity = value; }
-        
-        public float TotalPrice { get => this.Quantity*this.UnitPrice;}
+
+        public float TotalPrice { get => this.Quantity * this.UnitPrice; }
         public int Id { get => id; set => id = value; }
     }
 }

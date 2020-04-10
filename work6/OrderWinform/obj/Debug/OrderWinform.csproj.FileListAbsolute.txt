@@ -1,0 +1,14 @@
+H:\personal_files\Undergraduate\大二下\软件构造基础\CShapeClasswork\work6\OrderWinform\bin\Debug\OrderWinform.exe.config
+H:\personal_files\Undergraduate\大二下\软件构造基础\CShapeClasswork\work6\OrderWinform\bin\Debug\OrderWinform.exe
+H:\personal_files\Undergraduate\大二下\软件构造基础\CShapeClasswork\work6\OrderWinform\bin\Debug\OrderWinform.pdb
+H:\personal_files\Undergraduate\大二下\软件构造基础\CShapeClasswork\work6\OrderWinform\bin\Debug\ClassOrderManager.dll
+H:\personal_files\Undergraduate\大二下\软件构造基础\CShapeClasswork\work6\OrderWinform\bin\Debug\ClassOrderManager.pdb
+H:\personal_files\Undergraduate\大二下\软件构造基础\CShapeClasswork\work6\OrderWinform\obj\Debug\OrderWinform.csprojAssemblyReference.cache
+H:\personal_files\Undergraduate\大二下\软件构造基础\CShapeClasswork\work6\OrderWinform\obj\Debug\OrderWinform.Form1.resources
+H:\personal_files\Undergraduate\大二下\软件构造基础\CShapeClasswork\work6\OrderWinform\obj\Debug\OrderWinform.Properties.Resources.resources
+H:\personal_files\Undergraduate\大二下\软件构造基础\CShapeClasswork\work6\OrderWinform\obj\Debug\OrderWinform.csproj.GenerateResource.cache
+H:\personal_files\Undergraduate\大二下\软件构造基础\CShapeClasswork\work6\OrderWinform\obj\Debug\OrderWinform.csproj.CopyComplete
+H:\personal_files\Undergraduate\大二下\软件构造基础\CShapeClasswork\work6\OrderWinform\obj\Debug\OrderWinform.exe
+H:\personal_files\Undergraduate\大二下\软件构造基础\CShapeClasswork\work6\OrderWinform\obj\Debug\OrderWinform.pdb
+H:\personal_files\Undergraduate\大二下\软件构造基础\CShapeClasswork\work6\OrderWinform\obj\Debug\OrderWinform.OrderForm.resources
+H:\personal_files\Undergraduate\大二下\软件构造基础\CShapeClasswork\work6\OrderWinform\obj\Debug\OrderWinform.OrderItemForm.resources

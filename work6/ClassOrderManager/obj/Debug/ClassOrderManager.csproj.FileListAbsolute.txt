@@ -1,0 +1,5 @@
+H:\personal_files\Undergraduate\大二下\软件构造基础\CShapeClasswork\work6\ClassOrderManager\bin\Debug\ClassOrderManager.dll
+H:\personal_files\Undergraduate\大二下\软件构造基础\CShapeClasswork\work6\ClassOrderManager\bin\Debug\ClassOrderManager.pdb
+H:\personal_files\Undergraduate\大二下\软件构造基础\CShapeClasswork\work6\ClassOrderManager\obj\Debug\ClassOrderManager.dll
+H:\personal_files\Undergraduate\大二下\软件构造基础\CShapeClasswork\work6\ClassOrderManager\obj\Debug\ClassOrderManager.pdb
+H:\personal_files\Undergraduate\大二下\软件构造基础\CShapeClasswork\work6\ClassOrderManager\obj\Debug\ClassOrderManager.csprojAssemblyReference.cache
