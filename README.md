@@ -47,17 +47,18 @@ C#作业专用库
 >* 画图情况输出
 
 > sample img:
-> <img src="https://github.com/G-H-Li/CShapeClasswork/blob/master/work7/start.png">
-> <img src="https://github.com/G-H-Li/CShapeClasswork/blob/master/work7/draw.png">
+> <img src="https://github.com/G-H-Li/CShapeClasswork/blob/master/Work7/start.png">
+> <img src="https://github.com/G-H-Li/CShapeClasswork/blob/master/Work7/draw.png">
 
 ## work6：winform（2020年4月11日课堂作业）
 ClassOrderManger+OrderWinform：为订单管理的程序添加一个WinForm的界面。通过这个界面，调用OrderService的各个方法，实现创建订单、删除订单、修改订单、查询订单、导出订单、导入订单等功能。
-> ###要求：
+> 要求：
 >* WinForm的界面部分单独写一个项目，依赖于原来的项目。
 >* 可以使用两个窗口。主窗口实现查询展示功能，以及放置各种功能按钮。新建/修改订单功能使用弹出窗口。
 >* 注意窗口的布局，在窗口尺寸变化时，不出现错位挤压等情况。
 >* 尽量通过数据绑定来实现功能。订单和订单明细各使用一个bindingsource，通过DataMember来实现主从对象绑定。
-> ###易错点：
+
+> 易错点：
 >* 在进行数据绑定时，需要保证引入进winform程序的类也是采用.Net FrameWork，才能顺利完成数据绑定的操作。
 >* bindingNavigator在使用加号按钮进行添加数据时，会自动调用绑定类的默认构造函数进行构造数据。要注意好不同控件之间的数据绑定关系。
 > sample img:
