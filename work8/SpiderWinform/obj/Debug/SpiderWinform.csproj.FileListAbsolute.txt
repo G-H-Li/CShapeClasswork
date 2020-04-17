@@ -1,0 +1,12 @@
+H:\personal_files\Undergraduate\大二下\软件构造基础\CShapeClasswork\work8\SpiderWinform\bin\Debug\SpiderWinform.exe.config
+H:\personal_files\Undergraduate\大二下\软件构造基础\CShapeClasswork\work8\SpiderWinform\bin\Debug\SpiderWinform.exe
+H:\personal_files\Undergraduate\大二下\软件构造基础\CShapeClasswork\work8\SpiderWinform\bin\Debug\SpiderWinform.pdb
+H:\personal_files\Undergraduate\大二下\软件构造基础\CShapeClasswork\work8\SpiderWinform\bin\Debug\Spider.dll
+H:\personal_files\Undergraduate\大二下\软件构造基础\CShapeClasswork\work8\SpiderWinform\bin\Debug\Spider.pdb
+H:\personal_files\Undergraduate\大二下\软件构造基础\CShapeClasswork\work8\SpiderWinform\obj\Debug\SpiderWinform.csprojAssemblyReference.cache
+H:\personal_files\Undergraduate\大二下\软件构造基础\CShapeClasswork\work8\SpiderWinform\obj\Debug\SpiderWinform.Form1.resources
+H:\personal_files\Undergraduate\大二下\软件构造基础\CShapeClasswork\work8\SpiderWinform\obj\Debug\SpiderWinform.Properties.Resources.resources
+H:\personal_files\Undergraduate\大二下\软件构造基础\CShapeClasswork\work8\SpiderWinform\obj\Debug\SpiderWinform.csproj.GenerateResource.cache
+H:\personal_files\Undergraduate\大二下\软件构造基础\CShapeClasswork\work8\SpiderWinform\obj\Debug\SpiderWinform.csproj.CopyComplete
+H:\personal_files\Undergraduate\大二下\软件构造基础\CShapeClasswork\work8\SpiderWinform\obj\Debug\SpiderWinform.exe
+H:\personal_files\Undergraduate\大二下\软件构造基础\CShapeClasswork\work8\SpiderWinform\obj\Debug\SpiderWinform.pdb

@@ -64,3 +64,10 @@ ClassOrderManger+OrderWinform：为订单管理的程序添加一个WinForm的�
 
 > sample img:
 > <img src="https://github.com/G-H-Li/CShapeClasswork/blob/master/work6/result.png">
+
+## work8：winform（2020年4月17日课堂作业）
+Spider+SpiderWinform：博客园用户的相关页面爬取
+>* 只爬取起始网站上的网页 
+>* 只有当爬取的是html文本时，才解析并爬取下一级URL。
+>* 相对地址转成绝对地址进行爬取。
+>* 尝试使用Winform来配置初始URL，启动爬虫，显示已经爬取的URL和错误的URL信息。

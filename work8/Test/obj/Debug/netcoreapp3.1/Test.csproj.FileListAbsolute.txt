@@ -1,0 +1,14 @@
+H:\personal_files\Undergraduate\大二下\软件构造基础\CShapeClasswork\work8\Test\obj\Debug\netcoreapp3.1\Test.csprojAssemblyReference.cache
+H:\personal_files\Undergraduate\大二下\软件构造基础\CShapeClasswork\work8\Test\obj\Debug\netcoreapp3.1\Test.AssemblyInfoInputs.cache
+H:\personal_files\Undergraduate\大二下\软件构造基础\CShapeClasswork\work8\Test\obj\Debug\netcoreapp3.1\Test.AssemblyInfo.cs
+H:\personal_files\Undergraduate\大二下\软件构造基础\CShapeClasswork\work8\Test\bin\Debug\netcoreapp3.1\Test.exe
+H:\personal_files\Undergraduate\大二下\软件构造基础\CShapeClasswork\work8\Test\bin\Debug\netcoreapp3.1\Test.deps.json
+H:\personal_files\Undergraduate\大二下\软件构造基础\CShapeClasswork\work8\Test\bin\Debug\netcoreapp3.1\Test.runtimeconfig.json
+H:\personal_files\Undergraduate\大二下\软件构造基础\CShapeClasswork\work8\Test\bin\Debug\netcoreapp3.1\Test.runtimeconfig.dev.json
+H:\personal_files\Undergraduate\大二下\软件构造基础\CShapeClasswork\work8\Test\bin\Debug\netcoreapp3.1\Test.dll
+H:\personal_files\Undergraduate\大二下\软件构造基础\CShapeClasswork\work8\Test\bin\Debug\netcoreapp3.1\Test.pdb
+H:\personal_files\Undergraduate\大二下\软件构造基础\CShapeClasswork\work8\Test\bin\Debug\netcoreapp3.1\Spider.dll
+H:\personal_files\Undergraduate\大二下\软件构造基础\CShapeClasswork\work8\Test\bin\Debug\netcoreapp3.1\Spider.pdb
+H:\personal_files\Undergraduate\大二下\软件构造基础\CShapeClasswork\work8\Test\obj\Debug\netcoreapp3.1\Test.csproj.CopyComplete
+H:\personal_files\Undergraduate\大二下\软件构造基础\CShapeClasswork\work8\Test\obj\Debug\netcoreapp3.1\Test.dll
+H:\personal_files\Undergraduate\大二下\软件构造基础\CShapeClasswork\work8\Test\obj\Debug\netcoreapp3.1\Test.pdb
