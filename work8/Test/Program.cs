@@ -7,7 +7,7 @@ namespace Test
     {
         static void Main(string[] args)
         {
-            string startUrl = "https://www.cnblogs.com/dstang2000/";
+            string startUrl = "https://www.cnblogs.com/Xy--1/";
             Crawler myCrawler = new Crawler(startUrl);
             myCrawler.Crawl();
         }

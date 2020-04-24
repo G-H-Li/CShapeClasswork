@@ -33,8 +33,9 @@ namespace Spider
 
         public void Crawl()
         {
+            DateTime startTime = DateTime.Now;
             Console.WriteLine("开始爬行了.... ");
-            while (true)
+            while (Count <= 10)
             {
                 string current = null;
                 if (WaitUrls.Count > 0)
@@ -62,6 +63,8 @@ namespace Spider
                 if (!Parse(html)) break;//解析,并加入新的链接
                 Console.WriteLine("爬行结束");
             }
+            Console.WriteLine("本次爬取结束");
+            Console.WriteLine((DateTime.Now - startTime).ToString());
         }
 
         public string DownLoad(string url)

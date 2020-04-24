@@ -13,6 +13,7 @@ namespace SpiderWinform
 {
     public partial class Form1 : Form
     {
+        Crawler crawler;
         public Form1()
         {
             InitializeComponent();
@@ -21,41 +22,51 @@ namespace SpiderWinform
         private void BtnCrawl_Click(object sender, EventArgs e)
         {
             string startUrl = tbUrl.Text;
-            Crawler crawler = new Crawler(startUrl);
+            crawler = new Crawler(startUrl);
+            Task<bool>[] tasks = { };
             tbOutput.AppendText("开始爬行了....\r\n");
-            while (true)
+            DateTime startTime = DateTime.Now;
+            while (crawler.Count <= 10)
             {
                 string current = null;
                 if (crawler.WaitUrls.Count > 0)
                 {
                     current = crawler.WaitUrls.Dequeue();
-                    if (crawler.CrawlUrls.ContainsKey(current))
+                    if (! crawler.CrawlUrls.ContainsKey(current))
                     {
-                        continue;
+                        crawler.CrawlUrls.Add(current, false);
                     }
                     else
                     {
-                        crawler.CrawlUrls.Add(current, false);
+                        continue;
                     }
                 }
                 else
                 {
-                    break;
-                }
-                if (current == null) break;
-                tbOutput.AppendText("爬取" + current + "页面!\r\n");
-                string html = crawler.DownLoad(current); // 下载页面
-                crawler.CrawlUrls[current] = true; //将爬取过的链接置为已爬取
-                crawler.Count++;
-                if (!crawler.CheckHtml(html))
-                {
-                    tbOutput.AppendText("此页面不是html文本\r\n");
                     continue;
                 }
-                if (!crawler.Parse(html)) break;//解析,并加入新的链接
+                tbOutput.AppendText("爬取" + current + "页面!\r\n");
+                tasks.Append(Task.Run(() => Start(current)));
                 tbOutput.AppendText("此链接爬取完毕\r\n");
             }
             tbOutput.AppendText("本次爬取结束\r\n");
+            tbOutput.AppendText((DateTime.Now - startTime).ToString() + "\r\n");
+        }
+
+        private bool Start(string currentUrl)
+        {
+            string html = crawler.DownLoad(currentUrl); // 下载页面
+            crawler.CrawlUrls[currentUrl] = true; //将爬取过的链接置为已爬取
+            crawler.Count++;
+            if (!crawler.CheckHtml(html))
+            {
+                return false;
+            }
+            if (!crawler.Parse(html))//解析,并加入新的链接
+            {
+                return false;
+            }
+            return false;
         }
     }
 }
