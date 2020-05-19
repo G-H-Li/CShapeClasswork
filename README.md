@@ -82,3 +82,6 @@ Spider+SpiderWinform（并行） + test（串行）：将爬取进程由串行�
 
 ## work9：console（2020年5月8日课堂作业）
 基于EF框架，将订单保存到MySql数据库中，并实现订单的增删改查功能
+
+## work10：web（2020年5月15日课堂作业）
+基于EF框架和Web框架：实现url操作数据库的增删改查
